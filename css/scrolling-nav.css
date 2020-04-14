@@ -1,5 +1,9 @@
 
 
+.serv{
+padding-bottom: 25px;
+}
+
 .gridmakers2{
   background-color: #dedef8; 
   border: solid red 1px;
@@ -44,12 +48,7 @@ img {
 .bg-dark {
     background-color: rgba(24,28,33,0.9) !important;
 }
-.opacity-50 {
-    opacity: .5 !important;
-}
-.bg-dark {
-    background-color: rgba(24,28,33,0.9) !important;
-}
+
 .ui-bg-overlay-container>*, .ui-bg-video-container>* {
     position: relative;
 }
